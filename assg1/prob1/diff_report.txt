@@ -1,0 +1,23 @@
+=== DIFF BETWEEN countPrimes AND exCountPrimes ===
+
+Test Case 1: Normal input (2 10)
+countPrimes output: 3
+exCountPrimes output: 3
+Result: SAME
+
+Test Case 2: Larger range (1 20)
+countPrimes output: 8
+exCountPrimes output: 8
+Result: SAME
+
+Test Case 3: Invalid input - first > second (10 5)
+countPrimes output: Lower bound must be less than upper bound
+0
+exCountPrimes output: 0
+Result: DIFFERENT
+
+Test Case 4: Negative numbers (-5 -1)
+countPrimes output: Bounds must be positive
+0
+exCountPrimes output: Two positive integers not entered
+Result: DIFFERENT
