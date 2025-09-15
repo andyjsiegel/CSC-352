@@ -1,0 +1,38 @@
+#!/bin/bash
+
+# Script to add a header comment to a C file
+# Usage: add_header.sh filename.c
+
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 <filename.c>"
+    exit 1
+fi
+
+filename="$1"
+
+# Check if file exists
+if [ ! -f "$filename" ]; then
+    echo "Error: File '$filename' does not exist."
+    exit 1
+fi
+
+# Extract just the filename without path
+basename_file=$(basename "$filename")
+
+# Create the header
+header="/*
+ * File: $basename_file
+ * Author: Andy Siegel
+ * Purpose: 
+ */"
+
+# Create temporary file with header + original content
+temp_file=$(mktemp)
+echo "$header" > "$temp_file"
+echo "" >> "$temp_file"  # Add blank line after header
+cat "$filename" >> "$temp_file"
+
+# Replace original file with new content
+mv "$temp_file" "$filename"
+
+echo "Header added to $filename"
