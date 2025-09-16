@@ -14,9 +14,10 @@ so integers remain as their value and 'a' is 10 while 'z' is 35 */
 int getNumericalValue(char input) {
     char lowerInput = tolower(input);
     if (lowerInput >= '0' && lowerInput <= '9') {
-        return lowerInput - '0'; // Convert character '0'-'9' to integer 0-9
+        return lowerInput - '0'; // Convert character '0'-'9' to integer 0-9 
+        // (character '0' is ASCII code 48 while character '9' is code 57, so subtracting '0' or 48 gives the integer value)
     } else if (lowerInput >= 'a' && lowerInput <= 'z') {
-        return lowerInput - 'a' + 10; // Convert character 'a'-'z' to integer 10-35
+        return lowerInput - 'a' + 10; // Convert character 'a'-'z' to integer 10-35 ('a' is code 0 while 'z' is code 25, so add 10)
     } else {
         return -1; // Return -1 for invalid lowerInput
     }
