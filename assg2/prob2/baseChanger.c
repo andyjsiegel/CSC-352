@@ -26,7 +26,7 @@ int main() {
     int base;
     scanf("%d", &base);
     if (base < 2 || base > 36) {
-        fprintf(stderr, "Error: Base must be in the range 2-35.\n");
+        fprintf(stderr, "Error: Base must be in the range 2-36.\n");
         return 1;
     }
     // max input is 6 characters long + null terminator
