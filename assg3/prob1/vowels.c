@@ -1,3 +1,10 @@
+/*
+ * File: vowels.c
+ * Author: Andy Siegel
+ * Purpose: To read strings and determine if the vowels in each string appear in alphabetical order.
+ *          Outputs 1 if vowels are in order, 0 otherwise. Non-alphabetic characters in the input throw an error.
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

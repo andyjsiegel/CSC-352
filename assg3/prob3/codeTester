@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# File: codeTester
+# Author: Andy Siegel
+# Purpose: to run test files on count and exCount and compare outputs with diff
+
+for testfile in test*; do
+    if [[ -f "$testfile" ]]; then
+        # Run count
+        ./count < "$testfile" > myOut 2> myErr
+        echo $? >> myOut
+
+        # Run exCount
+        ./exCount < "$testfile" > exOut 2> exErr
+        echo $? >> exOut
+
+        # Print results
+        echo "Test File $testfile"
+        echo "stdout diffs:"
+        diff myOut exOut
+        echo "stderr diffs:"
+        diff myErr exErr
+    fi
+done
