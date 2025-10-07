@@ -10,7 +10,9 @@
 
 int main() {
     int shift;
-    if(scanf("%d", &shift) != 1) {
+    int scanf_result = scanf("%d", &shift);
+    if(scanf_result == EOF) return 0;
+    if(scanf_result != 1) {
         fprintf(stderr, "Error: first line must be an integer shift factor\n");
         return 1; // error reading shift factor
     }
