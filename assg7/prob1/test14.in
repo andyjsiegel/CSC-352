@@ -1,0 +1,10 @@
+@n center
+@n spoke1
+@n spoke2
+@n spoke3
+@e center spoke1
+@e center spoke2
+@e center spoke3
+@q center spoke1
+@q center spoke2
+@q center spoke3
