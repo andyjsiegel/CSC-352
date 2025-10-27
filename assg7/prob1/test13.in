@@ -1,0 +1,16 @@
+@n a
+@n b
+@n c
+@n d
+@n e
+@n f
+@e a b
+@e a c
+@e b d
+@e c d
+@e d e
+@e f a
+@q a e
+@q f e
+@q b c
+@q a f

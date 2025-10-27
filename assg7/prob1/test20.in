@@ -1,0 +1,10 @@
+@n a
+@n b
+@e a b
+@q a b
+@x y z
+@n c
+@e a c
+@q a c
+@e d e
+@q a d

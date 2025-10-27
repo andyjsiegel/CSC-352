@@ -1,0 +1,12 @@
+@n a
+@n b
+@n c1
+@n c2
+@n c3
+@e a b
+@e c1 c2
+@e c2 c3
+@e c3 c1
+@q a c1
+@q a c2
+@q a c3

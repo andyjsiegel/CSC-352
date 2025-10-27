@@ -1,0 +1,9 @@
+@n x
+@n y
+@n z
+@e x y
+@e y z
+@e z x
+@q x z
+@q z y
+@q y x
