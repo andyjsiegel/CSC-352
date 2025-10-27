@@ -79,15 +79,9 @@ int main(int argc, char *argv[]) {
             }
         // this block accepts empty or whitespace-only lines.
         } else {
-            // Check if the line is just whitespace before flagging it as an error.
-            int is_whitespace = 1;
-            for (int i = 0; line[i] != '\0'; i++) {
-                if (!isspace((unsigned char)line[i])) {
-                    is_whitespace = 0;
-                    break;
-                }
-            }
-            if (!is_whitespace) {
+            // sscanf failed to match. This is only acceptable for a truly empty line.
+            // A line read by getline is "empty" if it only contains the newline character.
+            if (strcmp(line, "\n") != 0 && line[0] != '\0') {
                 fprintf(stderr, "Warning: Malformed input line. Ignoring.\n");
                 error_occurred = 1;
             }
@@ -194,7 +188,6 @@ void queryPath(const char *vName1, const char *vName2) {
 
     if (fromNode == NULL || toNode == NULL) {
         fprintf(stderr, "Warning: Query contains an undeclared vertex. Path does not exist.\n");
-        printf("0\n");
         error_occurred = 1;
         return;
     }
