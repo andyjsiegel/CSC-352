@@ -1,3 +1,15 @@
+/*
+ * File: reach.c
+ * Author: Andy Siegel
+ * Purpose: This C program implements a directed graph data structure 
+ *          using adjacency lists and provides functionality to build 
+ *          the graph by adding vertices and directed edges based on 
+ *          input commands, and query whether a path exists between 
+ *          any two vertices using depth-first search (DFS) traversal. 
+ *          The program reads commands from a file or standard input 
+ *          and outputs 1 if a path exists between queried vertices, 0 otherwise.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

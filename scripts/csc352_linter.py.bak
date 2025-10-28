@@ -69,7 +69,7 @@ class CSC352Linter:
                                  "Header missing 'Purpose:' field")
     
     def find_functions(self, content: List[str]) -> List[Tuple[int, str]]:
-        """Find all function definitions (excluding main and forward declarations)."""
+        """Find all function definitions (excluding main)."""
         functions = []
         in_comment = False
         
@@ -83,11 +83,6 @@ class CSC352Linter:
             if in_comment or line.strip().startswith('//'):
                 continue
             
-            # Skip forward declarations (lines ending with semicolon)
-            stripped = line.strip()
-            if stripped.endswith(';'):
-                continue
-            
             # Look for function definitions
             # Simple pattern: type name(params) { or type name(params)\n{
             func_pattern = r'^\s*\w+\s+(\w+)\s*\([^)]*\)\s*\{?'
@@ -97,15 +92,7 @@ class CSC352Linter:
                 func_name = match.group(1)
                 # Skip main function and common false positives
                 if func_name not in ['main', 'if', 'while', 'for', 'switch']:
-                    # Check if this is actually a function definition by looking for opening brace
-                    # Either on same line or next non-empty line
-                    has_opening_brace = '{' in line
-                    if not has_opening_brace and i + 1 < len(content):
-                        next_line = content[i + 1].strip()
-                        has_opening_brace = next_line.startswith('{')
-                    
-                    if has_opening_brace:
-                        functions.append((i + 1, func_name))
+                    functions.append((i + 1, func_name))
         
         return functions
     
