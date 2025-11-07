@@ -37,7 +37,7 @@ VertexNode *vertexList = NULL;
 // Global flag to track if any non-fatal errors occurred
 int error_occurred = 0;
 
-// --- Function Prototypes ---
+// function prototypes to avoid compiler warnings
 VertexNode* findVertex(const char *vName);
 void addVertex(const char *vName);
 void addEdge(const char *vName1, const char *vName2);
