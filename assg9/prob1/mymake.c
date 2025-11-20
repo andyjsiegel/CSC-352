@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include "graph.h"
 
-// Helper to trim leading/trailing whitespace from a string
+/* trim_whitespace(char *str) - removes any whitespace */
 char *trim_whitespace(char *str) {
     char *end;
     while (isspace((unsigned char)*str)) str++;

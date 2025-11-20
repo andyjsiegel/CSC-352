@@ -3,7 +3,7 @@
 #include <string.h>
 #include "graph.h"
 
-// Find a node in the list of all nodes
+/* find_node(NodeList *head, const char *name) - finds a node in the list by name, returns null if not found */
 Node* find_node(NodeList *head, const char *name) {
     NodeList *current = head;
     while (current != NULL) {
@@ -15,7 +15,7 @@ Node* find_node(NodeList *head, const char *name) {
     return NULL;
 }
 
-// Create a new node
+/* create_node(const char *name) - creates a node */
 Node* create_node(const char *name) {
     Node *newNode = (Node*)malloc(sizeof(Node));
     if (newNode == NULL) {
@@ -36,7 +36,7 @@ Node* create_node(const char *name) {
     return newNode;
 }
 
-// Add a new node to the central list of nodes
+/* add_node_to_list(NodeList **head, Node *newNode) - adds a node to the linked list. */
 void add_node_to_list(NodeList **head, Node *newNode) {
     NodeList *newElem = (NodeList*)malloc(sizeof(NodeList));
     if (newElem == NULL) {
@@ -48,7 +48,7 @@ void add_node_to_list(NodeList **head, Node *newNode) {
     *head = newElem;
 }
 
-// Add a dependency to a target node
+/* add_dependency(Node *target, Node *dependency) - adds a dependency to a node */
 void add_dependency(Node *target, Node *dependency) {
     // Allocate new, larger array
     Node **new_deps = malloc(sizeof(Node*) * (target->num_dependencies + 1));
@@ -69,7 +69,7 @@ void add_dependency(Node *target, Node *dependency) {
     target->num_dependencies++;
 }
 
-// Add a command to a target node
+/* add_command(Node *target, const char *command) - adds a command to a target node */
 void add_command(Node *target, const char *command) {
     // Allocate new, larger array for command pointers
     char **new_cmds = malloc(sizeof(char*) * (target->num_commands + 1));
@@ -94,7 +94,7 @@ void add_command(Node *target, const char *command) {
     target->num_commands++;
 }
 
-// Perform post-order traversal (DFS)
+/* post_order_traverse(Node *node) - Perform post-order traversal (DFS) */
 void post_order_traverse(Node *node) {
     if (node == NULL || node->visited) {
         return;
@@ -115,7 +115,7 @@ void post_order_traverse(Node *node) {
     }
 }
 
-// Free all allocated memory
+/* free_graph(NodeList *head) - Free all allocated memory */
 void free_graph(NodeList *head) {
     NodeList *current = head;
     while (current != NULL) {
