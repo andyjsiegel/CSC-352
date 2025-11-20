@@ -1,0 +1,52 @@
+a: b c d e f g h i j k l m n o p q r s t u v w x y z
+    cmd a
+b:
+    cmd b
+c:
+    cmd c
+d:
+    cmd d
+e:
+    cmd e
+f:
+    cmd f
+g:
+    cmd g
+h:
+    cmd h
+i:
+    cmd i
+j:
+    cmd j
+k:
+    cmd k
+l:
+    cmd l
+m:
+    cmd m
+n:
+    cmd n
+o:
+    cmd o
+p:
+    cmd p
+q:
+    cmd q
+r:
+    cmd r
+s:
+    cmd s
+t:
+    cmd t
+u:
+    cmd u
+v:
+    cmd v
+w:
+    cmd w
+x:
+    cmd x
+y:
+    cmd y
+z:
+    cmd z

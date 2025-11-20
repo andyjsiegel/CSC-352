@@ -1,0 +1,10 @@
+a:b
+    cmd a
+b:c
+    cmd b
+c:d
+    cmd c
+d:e
+    cmd d
+e:
+    cmd e
