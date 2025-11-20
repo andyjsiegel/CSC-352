@@ -1,3 +1,9 @@
+/*
+ * File: mymake.c
+ * Author: Andy Siegel
+ * Purpose: To run a simpler version of make by building it from a graph.  
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -71,7 +77,7 @@ int main(int argc, char *argv[]) {
             char *deps_str = colon + 1;
 
             if (strlen(target_str) == 0) {
-                 fprintf(stderr, "%s: illegal format: missing target name\n", makefile_name);
+                fprintf(stderr, "%s: illegal format: missing target name\n", makefile_name);
                 free(line);
                 fclose(file);
                 free_graph(all_nodes);
