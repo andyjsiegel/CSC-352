@@ -1,7 +1,7 @@
 a:
 	cmd a1
-        cmd a2
+	cmd a2
 b:
-	    cmd b1
+	cmd b1
 c:
-		cmd c1
+	cmd c1

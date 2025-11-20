@@ -1,8 +1,8 @@
 a: b
-    cmd a1
+	cmd a1
 a: c
-    cmd a2
+	cmd a2
 b:
-    cmd b
+	cmd b
 c:
-    cmd c
+	cmd c
