@@ -5,9 +5,9 @@
 # It also runs 'mymake' through Valgrind to check for memory leaks.
 
 # --- Configuration ---
-MYMAKE_EXEC="./mymake"
-EXMYMAKE_EXEC="./exMymake"
-TEST_FILES=$(ls test*.in 2>/dev/null)
+MYMAKE_EXEC="./mymake2"
+EXMYMAKE_EXEC="./exMymake2"
+TEST_FILES=$(ls test* 2>/dev/null)
 VALGRIND_LOG="valgrind_log.txt"
 
 # --- Start of Script ---
@@ -57,9 +57,9 @@ for testfile in $TEST_FILES; do
         diff_stdout=$(diff -u <(echo "$mymake_out") <(echo "$exmymake_out"))
 
         if [ $? -eq 0 ]; then
-            echo "    [PASS] STDOUT matches for target '$target'."
+            echo -e "\033[32m    [PASS] STDOUT matches for target '$target'.\033[0m"
         else
-            echo "    [FAIL] STDOUT differs for target '$target'."
+            echo -e "\033[31m    [FAIL] STDOUT differs for target '$target'.\033[0m"
             echo "    --------- mymake stdout ---------"
             echo "$mymake_out"
             echo "    --------- exMymake stdout -------"
@@ -71,15 +71,15 @@ for testfile in $TEST_FILES; do
 
         # Compare return codes
         if [ "$mymake_rc" -eq "$exmymake_rc" ]; then
-            echo "    [PASS] Exit codes match for target '$target' (mymake: $mymake_rc, exMymake: $exmymake_rc)."
+            echo -e "\033[32m    [PASS] Exit codes match for target '$target' (mymake: $mymake_rc, exMymake: $exmymake_rc).\033[0m"
         else
-            echo "    [FAIL] Exit codes differ for target '$target'."
+            echo "\033[31m    [FAIL] Exit codes differ for target '$target'.\033[0m"
             echo "      -> mymake exit code: $mymake_rc"
             echo "      -> exMymake exit code: $exmymake_rc"
         fi
 
         # --- Run Valgrind for Memory Leak Check ---
-        echo "    [INFO] Running Valgrind on mymake for target '$target'..."
+        echo -e "\033[33m    [INFO] Running Valgrind on mymake for target '$target'...\033[0m"
         # We redirect stdout to /dev/null and capture stderr, where Valgrind writes its report.
         valgrind_output=$(valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes $MYMAKE_EXEC "$testfile" "$target" 2>&1 >/dev/null)
 

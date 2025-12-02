@@ -1,0 +1,4 @@
+A : B c
+	command2
+B : C
+	command1
