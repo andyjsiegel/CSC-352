@@ -1,0 +1,8 @@
+a: b
+	cmd a1
+a: c
+	cmd a2
+b:
+	cmd b
+c:
+	cmd c

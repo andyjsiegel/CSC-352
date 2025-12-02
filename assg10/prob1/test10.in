@@ -1,0 +1,18 @@
+a: b c
+    cmd a
+b: d e
+    cmd b
+c: f g
+    cmd c
+d: h
+    cmd d
+e: h
+    cmd e
+f: i
+    cmd f
+g: i
+    cmd g
+h:
+    cmd h
+i:
+    cmd i

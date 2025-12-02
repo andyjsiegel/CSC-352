@@ -1,0 +1,4 @@
+a:b
+    cmd a
+b:a
+    cmd b

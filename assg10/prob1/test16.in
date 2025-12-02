@@ -1,0 +1,104 @@
+a: b c d e f g h i j k l m n o p q r s t u v w x y z a1 b1 c1 d1 e1 f1 g1 h1 i1 j1 k1 l1 m1 n1 o1 p1 q1 r1 s1 t1 u1 v1 w1 x1 y1 z1
+	cmd a
+b:
+	cmd b
+c:
+	cmd c
+d:
+	cmd d
+e:
+	cmd e
+f:
+	cmd f
+g:
+	cmd g
+h:
+	cmd h
+i:
+	cmd i
+j:
+	cmd j
+k:
+	cmd k
+l:
+	cmd l
+m:
+	cmd m
+n:
+	cmd n
+o:
+	cmd o
+p:
+	cmd p
+q:
+	cmd q
+r:
+	cmd r
+s:
+	cmd s
+t:
+	cmd t
+u:
+	cmd u
+v:
+	cmd v
+w:
+	cmd w
+x:
+	cmd x
+y:
+	cmd y
+z:
+	cmd z
+a1:
+	cmd a1
+b1:
+	cmd b1
+c1:
+	cmd c1
+d1:
+	cmd d1
+e1:
+	cmd e1
+f1:
+	cmd f1
+g1:
+	cmd g1
+h1:
+	cmd h1
+i1:
+	cmd i1
+j1:
+	cmd j1
+k1:
+	cmd k1
+l1:
+	cmd l1
+m1:
+	cmd m1
+n1:
+	cmd n1
+o1:
+	cmd o1
+p1:
+	cmd p1
+q1:
+	cmd q1
+r1:
+	cmd r1
+s1:
+	cmd s1
+t1:
+	cmd t1
+u1:
+	cmd u1
+v1:
+	cmd v1
+w1:
+	cmd w1
+x1:
+	cmd x1
+y1:
+	cmd y1
+z1:
+	cmd z1
