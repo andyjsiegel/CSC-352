@@ -1,3 +1,9 @@
+/*
+ * File: graph.c
+ * Author: Andy Siegel
+ * Purpose: To build a dependency graph from a test makefile. All graph functions are here, but nothing else is - code is broken into two .c files.   
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
