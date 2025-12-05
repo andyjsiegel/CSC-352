@@ -5,6 +5,7 @@
 #include <sys/wait.h>
 #include "graph.h"
 
+/* find_node(NodeList *head, const char *name) - finds a node in the linked list by name */
 Node* find_node(NodeList *head, const char *name) {
     NodeList *current = head;
     while (current != NULL) {
@@ -16,6 +17,7 @@ Node* find_node(NodeList *head, const char *name) {
     return NULL;
 }
 
+/* create_node(const char *name) - creates a new node with the given name */
 Node* create_node(const char *name) {
     Node *newNode = (Node*)malloc(sizeof(Node));
     if (newNode == NULL) {
@@ -40,6 +42,7 @@ Node* create_node(const char *name) {
     return newNode;
 }
 
+/* add_node_to_list(NodeList **head, Node *newNode) - adds a node to the front of the linked list */
 void add_node_to_list(NodeList **head, Node *newNode) {
     NodeList *newElem = (NodeList*)malloc(sizeof(NodeList));
     if (newElem == NULL) {
@@ -51,6 +54,7 @@ void add_node_to_list(NodeList **head, Node *newNode) {
     *head = newElem;
 }
 
+/* add_dependency(Node *target, Node *dependency) - adds a dependency to the target node */
 void add_dependency(Node *target, Node *dependency) {
     DepList *new_dep = (DepList*)malloc(sizeof(DepList));
     if (new_dep == NULL) {
@@ -72,6 +76,7 @@ void add_dependency(Node *target, Node *dependency) {
     target->num_dependencies++;
 }
 
+/* add_command(Node *target, const char *command) - adds a command to the target node */
 void add_command(Node *target, const char *command) {
     CmdList *new_cmd = (CmdList*)malloc(sizeof(CmdList));
     if (new_cmd == NULL) {
@@ -97,6 +102,7 @@ void add_command(Node *target, const char *command) {
     target->num_commands++;
 }
 
+/* process_node(Node *node, int *commands_executed, NodeList *all_nodes) - processes a node and its dependencies */
 void process_node(Node *node, int *commands_executed, NodeList *all_nodes) {
     if (node->visited) {
         return;
@@ -166,6 +172,7 @@ void process_node(Node *node, int *commands_executed, NodeList *all_nodes) {
     node->completed = 1;
 }
 
+/* free_graph(NodeList *head) - frees all allocated memory for the graph */
 void free_graph(NodeList *head) {
     NodeList *current_node_item = head;
     while (current_node_item != NULL) {

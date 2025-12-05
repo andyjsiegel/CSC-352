@@ -4,6 +4,7 @@
 #include <ctype.h>
 #include "graph.h"
 
+/* trim_whitespace(char *str) - helper to clean out whitespace from str */
 char *trim_whitespace(char *str) {
     char *end;
     while (isspace((unsigned char)*str)) str++;
@@ -101,16 +102,24 @@ int main(int argc, char *argv[]) {
             target_node->is_target = 1;
             last_target = target_node;
 
-            char *dep_token = strtok(deps_str, " \t");
-            while (dep_token != NULL) {
-                Node *dep_node = find_node(all_nodes, dep_token);
+            char *dep_token = deps_str;
+            int offset = 0;
+            char token[256];
+
+            while (sscanf(dep_token + offset, "%255s%n", token, &offset) == 1) {
+                Node *dep_node = find_node(all_nodes, token);
                 if (dep_node == NULL) {
-                    dep_node = create_node(dep_token);
+                    dep_node = create_node(token);
                     add_node_to_list(&all_nodes, dep_node);
                 }
                 add_dependency(target_node, dep_node);
-                dep_token = strtok(NULL, " \t");
+                
+                // Skip whitespace
+                while (*(dep_token + offset) && isspace((unsigned char)*(dep_token + offset))) {
+                    offset++;
+                }
             }
+
         }
     }
     free(line);
