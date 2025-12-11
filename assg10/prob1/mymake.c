@@ -1,3 +1,9 @@
+/*
+ * File: mymake.c
+ * Author: Andy Siegel
+ * Purpose: The main file to construct the mini Make. Takes command line arguments and sets up the graph using functions from the other file. 
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -73,7 +73,7 @@ for testfile in $TEST_FILES; do
         if [ "$mymake_rc" -eq "$exmymake_rc" ]; then
             echo -e "\033[32m    [PASS] Exit codes match for target '$target' (mymake: $mymake_rc, exMymake: $exmymake_rc).\033[0m"
         else
-            echo "\033[31m    [FAIL] Exit codes differ for target '$target'.\033[0m"
+            echo -e "\033[31m    [FAIL] Exit codes differ for target '$target'.\033[0m"
             echo "      -> mymake exit code: $mymake_rc"
             echo "      -> exMymake exit code: $exmymake_rc"
         fi
@@ -85,9 +85,9 @@ for testfile in $TEST_FILES; do
 
         # Check if Valgrind reported that all memory was freed.
         if echo "$valgrind_output" | grep -q "All heap blocks were freed -- no leaks are possible"; then
-            echo "    [PASS] Valgrind: No memory leaks detected."
+            echo -e "\033[32m    [PASS] Valgrind: No memory leaks detected.\033[0m"
         else
-            echo "    [FAIL] Valgrind: Memory leaks detected for target '$target'."
+            echo -e "\033[31m    [FAIL] Valgrind: Memory leaks detected for target '$target'.\033[0m"
             echo "      -> Details appended to $VALGRIND_LOG"
             # Log the details for review.
             {

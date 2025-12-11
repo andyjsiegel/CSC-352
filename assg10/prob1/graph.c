@@ -1,3 +1,9 @@
+/*
+ * File: graph.c
+ * Author: Andy Siegel
+ * Purpose: To build a graph of dependencies to simulate how Make works. 
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

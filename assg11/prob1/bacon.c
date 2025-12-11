@@ -257,14 +257,29 @@ int bfs(struct Actor *all_actors, struct Actor *start_actor, struct Actor *end_a
 }
 
 /*
- * print_path(actor) -- Prints the path from Kevin Bacon to the queried actor.
+ * print_path(actor) -- Prints the path from the queried actor back to Kevin Bacon.
  */
 void print_path(struct Actor *actor) {
-    if (actor->prev_actor_in_path == NULL) {
-        printf("%s\n", actor->name);
-    } else {
-        print_path(actor->prev_actor_in_path);
-        printf("was in %s with\n%s\n", actor->prev_movie_in_path->name, actor->name);
+    // Build the path by following prev pointers
+    struct Actor *path[1000];
+    struct Movie *movies[1000];
+    int path_len = 0;
+    
+    struct Actor *current = actor;
+    while (current != NULL) {
+        path[path_len] = current;
+        if (current->prev_actor_in_path != NULL) {
+            movies[path_len] = current->prev_movie_in_path;
+        }
+        path_len++;
+        current = current->prev_actor_in_path;
+    }
+    
+    // Print from queried actor (path[0]) to Kevin Bacon (path[path_len-1])
+    printf("%s\n", path[0]->name);
+    for (int i = 0; i < path_len - 1; i++) {
+        printf("was in %s with\n", movies[i]->name);
+        printf("%s\n", path[i + 1]->name);
     }
 }
 

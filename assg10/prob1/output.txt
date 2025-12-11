@@ -1,0 +1,2919 @@
+Starting mymake test script...
+--------------------------------------------------
+Processing test file: test01.in
+--------------------------------------------------
+  [TESTING] Target: 'phineas'
+    [PASS] STDOUT matches for target 'phineas'.
+    [PASS] Exit codes match for target 'phineas' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'phineas'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'ferb'
+    [PASS] STDOUT matches for target 'ferb'.
+    [PASS] Exit codes match for target 'ferb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'ferb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'perry'
+    [PASS] STDOUT matches for target 'perry'.
+    [PASS] Exit codes match for target 'perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'monogram'
+    [PASS] STDOUT matches for target 'monogram'.
+    [PASS] Exit codes match for target 'monogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'monogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'karl'
+    [PASS] STDOUT matches for target 'karl'.
+    [PASS] Exit codes match for target 'karl' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'karl'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test02.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test03.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test04.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test05.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test06.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'd'
+    [PASS] STDOUT matches for target 'd'.
+    [PASS] Exit codes match for target 'd' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'd'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'e'
+    [PASS] STDOUT matches for target 'e'.
+    [PASS] Exit codes match for target 'e' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'e'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test07.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test08.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test09.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'd'
+    [PASS] STDOUT matches for target 'd'.
+    [PASS] Exit codes match for target 'd' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'd'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'e'
+    [PASS] STDOUT matches for target 'e'.
+    [PASS] Exit codes match for target 'e' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'e'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test10.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'd'
+    [PASS] STDOUT matches for target 'd'.
+    [PASS] Exit codes match for target 'd' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'd'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'e'
+    [PASS] STDOUT matches for target 'e'.
+    [PASS] Exit codes match for target 'e' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'e'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'f'
+    [PASS] STDOUT matches for target 'f'.
+    [PASS] Exit codes match for target 'f' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'f'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'g'
+    [PASS] STDOUT matches for target 'g'.
+    [PASS] Exit codes match for target 'g' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'g'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'h'
+    [PASS] STDOUT matches for target 'h'.
+    [PASS] Exit codes match for target 'h' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'h'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'i'
+    [PASS] STDOUT matches for target 'i'.
+    [PASS] Exit codes match for target 'i' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'i'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test11.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test12.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test13.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test14.in
+--------------------------------------------------
+No targets found in test14.in. Skipping.
+--------------------------------------------------
+Processing test file: test15.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test16.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'd'
+    [PASS] STDOUT matches for target 'd'.
+    [PASS] Exit codes match for target 'd' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'd'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'e'
+    [PASS] STDOUT matches for target 'e'.
+    [PASS] Exit codes match for target 'e' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'e'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'f'
+    [PASS] STDOUT matches for target 'f'.
+    [PASS] Exit codes match for target 'f' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'f'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'g'
+    [PASS] STDOUT matches for target 'g'.
+    [PASS] Exit codes match for target 'g' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'g'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'h'
+    [PASS] STDOUT matches for target 'h'.
+    [PASS] Exit codes match for target 'h' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'h'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'i'
+    [PASS] STDOUT matches for target 'i'.
+    [PASS] Exit codes match for target 'i' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'i'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'j'
+    [PASS] STDOUT matches for target 'j'.
+    [PASS] Exit codes match for target 'j' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'j'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'k'
+    [PASS] STDOUT matches for target 'k'.
+    [PASS] Exit codes match for target 'k' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'k'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'l'
+    [PASS] STDOUT matches for target 'l'.
+    [PASS] Exit codes match for target 'l' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'l'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'm'
+    [PASS] STDOUT matches for target 'm'.
+    [PASS] Exit codes match for target 'm' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'm'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'n'
+    [PASS] STDOUT matches for target 'n'.
+    [PASS] Exit codes match for target 'n' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'n'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'o'
+    [PASS] STDOUT matches for target 'o'.
+    [PASS] Exit codes match for target 'o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'p'
+    [PASS] STDOUT matches for target 'p'.
+    [PASS] Exit codes match for target 'p' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'p'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'q'
+    [PASS] STDOUT matches for target 'q'.
+    [PASS] Exit codes match for target 'q' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'q'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'r'
+    [PASS] STDOUT matches for target 'r'.
+    [PASS] Exit codes match for target 'r' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'r'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 's'
+    [PASS] STDOUT matches for target 's'.
+    [PASS] Exit codes match for target 's' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 's'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'u'
+    [PASS] STDOUT matches for target 'u'.
+    [PASS] Exit codes match for target 'u' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'u'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'v'
+    [PASS] STDOUT matches for target 'v'.
+    [PASS] Exit codes match for target 'v' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'v'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'w'
+    [PASS] STDOUT matches for target 'w'.
+    [PASS] Exit codes match for target 'w' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'w'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'x'
+    [PASS] STDOUT matches for target 'x'.
+    [PASS] Exit codes match for target 'x' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'x'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'y'
+    [PASS] STDOUT matches for target 'y'.
+    [PASS] Exit codes match for target 'y' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'y'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'z'
+    [PASS] STDOUT matches for target 'z'.
+    [PASS] Exit codes match for target 'z' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'z'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'a1'
+    [PASS] STDOUT matches for target 'a1'.
+    [PASS] Exit codes match for target 'a1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b1'
+    [PASS] STDOUT matches for target 'b1'.
+    [PASS] Exit codes match for target 'b1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c1'
+    [PASS] STDOUT matches for target 'c1'.
+    [PASS] Exit codes match for target 'c1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'd1'
+    [PASS] STDOUT matches for target 'd1'.
+    [PASS] Exit codes match for target 'd1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'd1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'e1'
+    [PASS] STDOUT matches for target 'e1'.
+    [PASS] Exit codes match for target 'e1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'e1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'f1'
+    [PASS] STDOUT matches for target 'f1'.
+    [PASS] Exit codes match for target 'f1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'f1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'g1'
+    [PASS] STDOUT matches for target 'g1'.
+    [PASS] Exit codes match for target 'g1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'g1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'h1'
+    [PASS] STDOUT matches for target 'h1'.
+    [PASS] Exit codes match for target 'h1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'h1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'i1'
+    [PASS] STDOUT matches for target 'i1'.
+    [PASS] Exit codes match for target 'i1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'i1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'j1'
+    [PASS] STDOUT matches for target 'j1'.
+    [PASS] Exit codes match for target 'j1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'j1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'k1'
+    [PASS] STDOUT matches for target 'k1'.
+    [PASS] Exit codes match for target 'k1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'k1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'l1'
+    [PASS] STDOUT matches for target 'l1'.
+    [PASS] Exit codes match for target 'l1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'l1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'm1'
+    [PASS] STDOUT matches for target 'm1'.
+    [PASS] Exit codes match for target 'm1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'm1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'n1'
+    [PASS] STDOUT matches for target 'n1'.
+    [PASS] Exit codes match for target 'n1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'n1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'o1'
+    [PASS] STDOUT matches for target 'o1'.
+    [PASS] Exit codes match for target 'o1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'o1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'p1'
+    [PASS] STDOUT matches for target 'p1'.
+    [PASS] Exit codes match for target 'p1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'p1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'q1'
+    [PASS] STDOUT matches for target 'q1'.
+    [PASS] Exit codes match for target 'q1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'q1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'r1'
+    [PASS] STDOUT matches for target 'r1'.
+    [PASS] Exit codes match for target 'r1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'r1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 's1'
+    [PASS] STDOUT matches for target 's1'.
+    [PASS] Exit codes match for target 's1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 's1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'u1'
+    [PASS] STDOUT matches for target 'u1'.
+    [PASS] Exit codes match for target 'u1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'u1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'v1'
+    [PASS] STDOUT matches for target 'v1'.
+    [PASS] Exit codes match for target 'v1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'v1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'w1'
+    [PASS] STDOUT matches for target 'w1'.
+    [PASS] Exit codes match for target 'w1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'w1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'x1'
+    [PASS] STDOUT matches for target 'x1'.
+    [PASS] Exit codes match for target 'x1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'x1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'y1'
+    [PASS] STDOUT matches for target 'y1'.
+    [PASS] Exit codes match for target 'y1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'y1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'z1'
+    [PASS] STDOUT matches for target 'z1'.
+    [PASS] Exit codes match for target 'z1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'z1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test17.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test18.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test19.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'b'
+    [PASS] STDOUT matches for target 'b'.
+    [PASS] Exit codes match for target 'b' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'b'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'c'
+    [PASS] STDOUT matches for target 'c'.
+    [PASS] Exit codes match for target 'c' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'c'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'd'
+    [PASS] STDOUT matches for target 'd'.
+    [PASS] Exit codes match for target 'd' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'd'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'e'
+    [PASS] STDOUT matches for target 'e'.
+    [PASS] Exit codes match for target 'e' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'e'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'f'
+    [PASS] STDOUT matches for target 'f'.
+    [PASS] Exit codes match for target 'f' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'f'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'g'
+    [PASS] STDOUT matches for target 'g'.
+    [PASS] Exit codes match for target 'g' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'g'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'h'
+    [PASS] STDOUT matches for target 'h'.
+    [PASS] Exit codes match for target 'h' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'h'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'i'
+    [PASS] STDOUT matches for target 'i'.
+    [PASS] Exit codes match for target 'i' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'i'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'j'
+    [PASS] STDOUT matches for target 'j'.
+    [PASS] Exit codes match for target 'j' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'j'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'k'
+    [PASS] STDOUT matches for target 'k'.
+    [PASS] Exit codes match for target 'k' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'k'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'l'
+    [PASS] STDOUT matches for target 'l'.
+    [PASS] Exit codes match for target 'l' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'l'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'm'
+    [PASS] STDOUT matches for target 'm'.
+    [PASS] Exit codes match for target 'm' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'm'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'n'
+    [PASS] STDOUT matches for target 'n'.
+    [PASS] Exit codes match for target 'n' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'n'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'o'
+    [PASS] STDOUT matches for target 'o'.
+    [PASS] Exit codes match for target 'o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'p'
+    [PASS] STDOUT matches for target 'p'.
+    [PASS] Exit codes match for target 'p' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'p'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'q'
+    [PASS] STDOUT matches for target 'q'.
+    [PASS] Exit codes match for target 'q' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'q'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'r'
+    [PASS] STDOUT matches for target 'r'.
+    [PASS] Exit codes match for target 'r' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'r'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 's'
+    [PASS] STDOUT matches for target 's'.
+    [PASS] Exit codes match for target 's' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 's'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'u'
+    [PASS] STDOUT matches for target 'u'.
+    [PASS] Exit codes match for target 'u' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'u'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'v'
+    [PASS] STDOUT matches for target 'v'.
+    [PASS] Exit codes match for target 'v' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'v'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'w'
+    [PASS] STDOUT matches for target 'w'.
+    [PASS] Exit codes match for target 'w' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'w'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'x'
+    [PASS] STDOUT matches for target 'x'.
+    [PASS] Exit codes match for target 'x' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'x'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'y'
+    [PASS] STDOUT matches for target 'y'.
+    [PASS] Exit codes match for target 'y' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'y'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'z'
+    [PASS] STDOUT matches for target 'z'.
+    [PASS] Exit codes match for target 'z' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'z'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test20.in
+--------------------------------------------------
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_100_John
+--------------------------------------------------
+  [TESTING] Target: 'John'
+    [PASS] STDOUT matches for target 'John'.
+    [PASS] Exit codes match for target 'John' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'John'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_101_Beatles
+--------------------------------------------------
+  [TESTING] Target: 'Beatles'
+    [PASS] STDOUT matches for target 'Beatles'.
+    [PASS] Exit codes match for target 'Beatles' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Beatles'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'John'
+    [PASS] STDOUT matches for target 'John'.
+    [PASS] Exit codes match for target 'John' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'John'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Paul'
+    [PASS] STDOUT matches for target 'Paul'.
+    [PASS] Exit codes match for target 'Paul' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Paul'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Linda'
+    [PASS] STDOUT matches for target 'Linda'.
+    [PASS] Exit codes match for target 'Linda' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Linda'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'George'
+    [PASS] STDOUT matches for target 'George'.
+    [PASS] Exit codes match for target 'George' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'George'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_102_Linda
+--------------------------------------------------
+  [TESTING] Target: 'Phil'
+    [PASS] STDOUT matches for target 'Phil'.
+    [PASS] Exit codes match for target 'Phil' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Phil'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Paul'
+    [PASS] STDOUT matches for target 'Paul'.
+    [PASS] Exit codes match for target 'Paul' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Paul'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Linda'
+    [PASS] STDOUT matches for target 'Linda'.
+    [PASS] Exit codes match for target 'Linda' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Linda'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_103_Yoko
+--------------------------------------------------
+  [TESTING] Target: 'Beatles'
+    [PASS] STDOUT matches for target 'Beatles'.
+    [PASS] Exit codes match for target 'Beatles' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Beatles'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Yoko'
+    [PASS] STDOUT matches for target 'Yoko'.
+    [PASS] Exit codes match for target 'Yoko' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Yoko'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Paul'
+    [PASS] STDOUT matches for target 'Paul'.
+    [PASS] Exit codes match for target 'Paul' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Paul'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Pete'
+    [PASS] STDOUT matches for target 'Pete'.
+    [PASS] Exit codes match for target 'Pete' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Pete'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Linda'
+    [PASS] STDOUT matches for target 'Linda'.
+    [PASS] Exit codes match for target 'Linda' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Linda'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_20_try
+--------------------------------------------------
+No targets found in test_mymake_20_try. Skipping.
+--------------------------------------------------
+Processing test file: test_mymake_21_try
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_22_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_23_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_24_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_25_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_26_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_27_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_28_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_29_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_30_dog
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'dog'
+    [PASS] STDOUT matches for target 'dog'.
+    [PASS] Exit codes match for target 'dog' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'dog'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cat'
+    [PASS] STDOUT matches for target 'cat'.
+    [PASS] Exit codes match for target 'cat' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cat'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'mouse'
+    [PASS] STDOUT matches for target 'mouse'.
+    [PASS] Exit codes match for target 'mouse' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'mouse'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'elephant'
+    [PASS] STDOUT matches for target 'elephant'.
+    [PASS] Exit codes match for target 'elephant' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'elephant'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_31_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libcs352.a'
+    [PASS] STDOUT matches for target 'libcs352.a'.
+    [PASS] Exit codes match for target 'libcs352.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libcs352.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs352.o'
+    [PASS] STDOUT matches for target 'cs352.o'.
+    [PASS] Exit codes match for target 'cs352.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs352.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'dog'
+    [PASS] STDOUT matches for target 'dog'.
+    [PASS] Exit codes match for target 'dog' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'dog'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cat'
+    [PASS] STDOUT matches for target 'cat'.
+    [PASS] Exit codes match for target 'cat' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cat'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'mouse'
+    [PASS] STDOUT matches for target 'mouse'.
+    [PASS] Exit codes match for target 'mouse' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'mouse'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'elephant'
+    [PASS] STDOUT matches for target 'elephant'.
+    [PASS] Exit codes match for target 'elephant' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'elephant'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_32_Snoopy
+--------------------------------------------------
+  [TESTING] Target: 'Peanuts'
+    [PASS] STDOUT matches for target 'Peanuts'.
+    [PASS] Exit codes match for target 'Peanuts' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Peanuts'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'This'
+    [PASS] STDOUT matches for target 'This'.
+    [PASS] Exit codes match for target 'This' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'This'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'particular'
+    [PASS] STDOUT matches for target 'particular'.
+    [PASS] Exit codes match for target 'particular' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'particular'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'line'
+    [PASS] STDOUT matches for target 'line'.
+    [PASS] Exit codes match for target 'line' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'line'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'is'
+    [PASS] STDOUT matches for target 'is'.
+    [PASS] Exit codes match for target 'is' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'is'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'going'
+    [PASS] STDOUT matches for target 'going'.
+    [PASS] Exit codes match for target 'going' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'going'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'to'
+    [PASS] STDOUT matches for target 'to'.
+    [PASS] Exit codes match for target 'to' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'to'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'be'
+    [PASS] STDOUT matches for target 'be'.
+    [PASS] Exit codes match for target 'be' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'be'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'really,'
+    [PASS] STDOUT matches for target 'really,'.
+    [PASS] Exit codes match for target 'really,' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'really,'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'really'
+    [PASS] STDOUT matches for target 'really'.
+    [PASS] Exit codes match for target 'really' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'really'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'long.'
+    [PASS] STDOUT matches for target 'long.'.
+    [PASS] Exit codes match for target 'long.' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'long.'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'I'
+    [PASS] STDOUT matches for target 'I'.
+    [PASS] Exit codes match for target 'I' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'I'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'might'
+    [PASS] STDOUT matches for target 'might'.
+    [PASS] Exit codes match for target 'might' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'might'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'have'
+    [PASS] STDOUT matches for target 'have'.
+    [PASS] Exit codes match for target 'have' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'have'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'trouble'
+    [PASS] STDOUT matches for target 'trouble'.
+    [PASS] Exit codes match for target 'trouble' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'trouble'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'typeing'
+    [PASS] STDOUT matches for target 'typeing'.
+    [PASS] Exit codes match for target 'typeing' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'typeing'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'enough'
+    [PASS] STDOUT matches for target 'enough'.
+    [PASS] Exit codes match for target 'enough' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'enough'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'words'
+    [PASS] STDOUT matches for target 'words'.
+    [PASS] Exit codes match for target 'words' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'words'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'so'
+    [PASS] STDOUT matches for target 'so'.
+    [PASS] Exit codes match for target 'so' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'so'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'perhaps'
+    [PASS] STDOUT matches for target 'perhaps'.
+    [PASS] Exit codes match for target 'perhaps' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'perhaps'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'I'
+    [PASS] STDOUT matches for target 'I'.
+    [PASS] Exit codes match for target 'I' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'I'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'will'
+    [PASS] STDOUT matches for target 'will'.
+    [PASS] Exit codes match for target 'will' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'will'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'just'
+    [PASS] STDOUT matches for target 'just'.
+    [PASS] Exit codes match for target 'just' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'just'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'put'
+    [PASS] STDOUT matches for target 'put'.
+    [PASS] Exit codes match for target 'put' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'put'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'in'
+    [PASS] STDOUT matches for target 'in'.
+    [PASS] Exit codes match for target 'in' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'in'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'random'
+    [PASS] STDOUT matches for target 'random'.
+    [PASS] Exit codes match for target 'random' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'random'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'characters'
+    [PASS] STDOUT matches for target 'characters'.
+    [PASS] Exit codes match for target 'characters' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'characters'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'like'
+    [PASS] STDOUT matches for target 'like'.
+    [PASS] Exit codes match for target 'like' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'like'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+    [PASS] STDOUT matches for target 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'.
+    [PASS] Exit codes match for target 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
+    [PASS] STDOUT matches for target 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'.
+    [PASS] Exit codes match for target 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cccccccccccccccccccccccccccccccc'
+    [PASS] STDOUT matches for target 'cccccccccccccccccccccccccccccccc'.
+    [PASS] Exit codes match for target 'cccccccccccccccccccccccccccccccc' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cccccccccccccccccccccccccccccccc'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'dddddddddddddddddddddddddddddddddddddd'
+    [PASS] STDOUT matches for target 'dddddddddddddddddddddddddddddddddddddd'.
+    [PASS] Exit codes match for target 'dddddddddddddddddddddddddddddddddddddd' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'dddddddddddddddddddddddddddddddddddddd'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'eeeeeeeeeeeeeeeeeeeeeeeeeeee'
+    [PASS] STDOUT matches for target 'eeeeeeeeeeeeeeeeeeeeeeeeeeee'.
+    [PASS] Exit codes match for target 'eeeeeeeeeeeeeeeeeeeeeeeeeeee' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'eeeeeeeeeeeeeeeeeeeeeeeeeeee'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'ffffffffffffffffffffff'
+    [PASS] STDOUT matches for target 'ffffffffffffffffffffff'.
+    [PASS] Exit codes match for target 'ffffffffffffffffffffff' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'ffffffffffffffffffffff'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'gggggggggggggggggggggggggggggggg'
+    [PASS] STDOUT matches for target 'gggggggggggggggggggggggggggggggg'.
+    [PASS] Exit codes match for target 'gggggggggggggggggggggggggggggggg' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'gggggggggggggggggggggggggggggggg'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'hhhhhhhhhhhhhhhhhhhhhhhhh'
+    [PASS] STDOUT matches for target 'hhhhhhhhhhhhhhhhhhhhhhhhh'.
+    [PASS] Exit codes match for target 'hhhhhhhhhhhhhhhhhhhhhhhhh' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'hhhhhhhhhhhhhhhhhhhhhhhhh'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'iiiiiiiiiiiiiiii'
+    [PASS] STDOUT matches for target 'iiiiiiiiiiiiiiii'.
+    [PASS] Exit codes match for target 'iiiiiiiiiiiiiiii' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'iiiiiiiiiiiiiiii'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'jjjjjjjjjjjjjjjjjjjjjjjjj'
+    [PASS] STDOUT matches for target 'jjjjjjjjjjjjjjjjjjjjjjjjj'.
+    [PASS] Exit codes match for target 'jjjjjjjjjjjjjjjjjjjjjjjjj' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'jjjjjjjjjjjjjjjjjjjjjjjjj'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'kkkkkkkkkkkkkkkk'
+    [PASS] STDOUT matches for target 'kkkkkkkkkkkkkkkk'.
+    [PASS] Exit codes match for target 'kkkkkkkkkkkkkkkk' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'kkkkkkkkkkkkkkkk'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'lllllllllllllllll'
+    [PASS] STDOUT matches for target 'lllllllllllllllll'.
+    [PASS] Exit codes match for target 'lllllllllllllllll' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'lllllllllllllllll'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'mmmmmmmmmmmmmmmmmmmmmm'
+    [PASS] STDOUT matches for target 'mmmmmmmmmmmmmmmmmmmmmm'.
+    [PASS] Exit codes match for target 'mmmmmmmmmmmmmmmmmmmmmm' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'mmmmmmmmmmmmmmmmmmmmmm'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'nnnnnnnnnnnnnnnnnnnnnnn'
+    [PASS] STDOUT matches for target 'nnnnnnnnnnnnnnnnnnnnnnn'.
+    [PASS] Exit codes match for target 'nnnnnnnnnnnnnnnnnnnnnnn' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'nnnnnnnnnnnnnnnnnnnnnnn'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'oooooooooooooooooo'
+    [PASS] STDOUT matches for target 'oooooooooooooooooo'.
+    [PASS] Exit codes match for target 'oooooooooooooooooo' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'oooooooooooooooooo'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'pppppppppppppppppppppppppp'
+    [PASS] STDOUT matches for target 'pppppppppppppppppppppppppp'.
+    [PASS] Exit codes match for target 'pppppppppppppppppppppppppp' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'pppppppppppppppppppppppppp'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'qqqqqqqqqqqqqqq'
+    [PASS] STDOUT matches for target 'qqqqqqqqqqqqqqq'.
+    [PASS] Exit codes match for target 'qqqqqqqqqqqqqqq' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'qqqqqqqqqqqqqqq'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rrrrrrrrrrrrrrrrrrrrrrrrr'
+    [PASS] STDOUT matches for target 'rrrrrrrrrrrrrrrrrrrrrrrrr'.
+    [PASS] Exit codes match for target 'rrrrrrrrrrrrrrrrrrrrrrrrr' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rrrrrrrrrrrrrrrrrrrrrrrrr'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'sssssssssssssssssss'
+    [PASS] STDOUT matches for target 'sssssssssssssssssss'.
+    [PASS] Exit codes match for target 'sssssssssssssssssss' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'sssssssssssssssssss'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'tttttttttttttttttt'
+    [PASS] STDOUT matches for target 'tttttttttttttttttt'.
+    [PASS] Exit codes match for target 'tttttttttttttttttt' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'tttttttttttttttttt'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'I'
+    [PASS] STDOUT matches for target 'I'.
+    [PASS] Exit codes match for target 'I' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'I'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'suppose'
+    [PASS] STDOUT matches for target 'suppose'.
+    [PASS] Exit codes match for target 'suppose' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'suppose'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'those'
+    [PASS] STDOUT matches for target 'those'.
+    [PASS] Exit codes match for target 'those' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'those'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'weren't'
+    [PASS] STDOUT matches for target 'weren't'.
+    [PASS] Exit codes match for target 'weren't' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'weren't'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'really'
+    [PASS] STDOUT matches for target 'really'.
+    [PASS] Exit codes match for target 'really' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'really'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'random,'
+    [PASS] STDOUT matches for target 'random,'.
+    [PASS] Exit codes match for target 'random,' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'random,'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'but'
+    [PASS] STDOUT matches for target 'but'.
+    [PASS] Exit codes match for target 'but' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'but'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'they'
+    [PASS] STDOUT matches for target 'they'.
+    [PASS] Exit codes match for target 'they' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'they'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'are'
+    [PASS] STDOUT matches for target 'are'.
+    [PASS] Exit codes match for target 'are' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'are'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'more'
+    [PASS] STDOUT matches for target 'more'.
+    [PASS] Exit codes match for target 'more' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'more'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'or'
+    [PASS] STDOUT matches for target 'or'.
+    [PASS] Exit codes match for target 'or' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'or'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'less'
+    [PASS] STDOUT matches for target 'less'.
+    [PASS] Exit codes match for target 'less' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'less'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'just'
+    [PASS] STDOUT matches for target 'just'.
+    [PASS] Exit codes match for target 'just' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'just'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'filler'
+    [PASS] STDOUT matches for target 'filler'.
+    [PASS] Exit codes match for target 'filler' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'filler'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'stuff.'
+    [PASS] STDOUT matches for target 'stuff.'.
+    [PASS] Exit codes match for target 'stuff.' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'stuff.'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Do'
+    [PASS] STDOUT matches for target 'Do'.
+    [PASS] Exit codes match for target 'Do' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Do'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'you'
+    [PASS] STDOUT matches for target 'you'.
+    [PASS] Exit codes match for target 'you' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'you'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'think'
+    [PASS] STDOUT matches for target 'think'.
+    [PASS] Exit codes match for target 'think' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'think'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'this'
+    [PASS] STDOUT matches for target 'this'.
+    [PASS] Exit codes match for target 'this' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'this'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'line'
+    [PASS] STDOUT matches for target 'line'.
+    [PASS] Exit codes match for target 'line' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'line'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'is'
+    [PASS] STDOUT matches for target 'is'.
+    [PASS] Exit codes match for target 'is' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'is'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'long'
+    [PASS] STDOUT matches for target 'long'.
+    [PASS] Exit codes match for target 'long' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'long'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'enough'
+    [PASS] STDOUT matches for target 'enough'.
+    [PASS] Exit codes match for target 'enough' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'enough'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'now?'
+    [PASS] STDOUT matches for target 'now?'.
+    [PASS] Exit codes match for target 'now?' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'now?'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'I'
+    [PASS] STDOUT matches for target 'I'.
+    [PASS] Exit codes match for target 'I' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'I'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'think'
+    [PASS] STDOUT matches for target 'think'.
+    [PASS] Exit codes match for target 'think' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'think'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'it'
+    [PASS] STDOUT matches for target 'it'.
+    [PASS] Exit codes match for target 'it' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'it'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'might'
+    [PASS] STDOUT matches for target 'might'.
+    [PASS] Exit codes match for target 'might' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'might'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'be'
+    [PASS] STDOUT matches for target 'be'.
+    [PASS] Exit codes match for target 'be' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'be'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'long'
+    [PASS] STDOUT matches for target 'long'.
+    [PASS] Exit codes match for target 'long' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'long'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'enough'
+    [PASS] STDOUT matches for target 'enough'.
+    [PASS] Exit codes match for target 'enough' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'enough'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'to'
+    [PASS] STDOUT matches for target 'to'.
+    [PASS] Exit codes match for target 'to' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'to'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'test'
+    [PASS] STDOUT matches for target 'test'.
+    [PASS] Exit codes match for target 'test' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'test'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'a'
+    [PASS] STDOUT matches for target 'a'.
+    [PASS] Exit codes match for target 'a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'bit.'
+    [PASS] STDOUT matches for target 'bit.'.
+    [PASS] Exit codes match for target 'bit.' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'bit.'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Although'
+    [PASS] STDOUT matches for target 'Although'.
+    [PASS] Exit codes match for target 'Although' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Although'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'I'
+    [PASS] STDOUT matches for target 'I'.
+    [PASS] Exit codes match for target 'I' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'I'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'haven't'
+    [PASS] STDOUT matches for target 'haven't'.
+    [PASS] Exit codes match for target 'haven't' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'haven't'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'hit'
+    [PASS] STDOUT matches for target 'hit'.
+    [PASS] Exit codes match for target 'hit' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'hit'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: '1000'
+    [PASS] STDOUT matches for target '1000'.
+    [PASS] Exit codes match for target '1000' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target '1000'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'chars'
+    [PASS] STDOUT matches for target 'chars'.
+    [PASS] Exit codes match for target 'chars' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'chars'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'yet.'
+    [PASS] STDOUT matches for target 'yet.'.
+    [PASS] Exit codes match for target 'yet.' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'yet.'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Hmmmmmm,'
+    [PASS] STDOUT matches for target 'Hmmmmmm,'.
+    [PASS] Exit codes match for target 'Hmmmmmm,' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Hmmmmmm,'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'maybe'
+    [PASS] STDOUT matches for target 'maybe'.
+    [PASS] Exit codes match for target 'maybe' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'maybe'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'I'
+    [PASS] STDOUT matches for target 'I'.
+    [PASS] Exit codes match for target 'I' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'I'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'should'
+    [PASS] STDOUT matches for target 'should'.
+    [PASS] Exit codes match for target 'should' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'should'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'get'
+    [PASS] STDOUT matches for target 'get'.
+    [PASS] Exit codes match for target 'get' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'get'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'to'
+    [PASS] STDOUT matches for target 'to'.
+    [PASS] Exit codes match for target 'to' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'to'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: '1000'
+    [PASS] STDOUT matches for target '1000'.
+    [PASS] Exit codes match for target '1000' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target '1000'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'chars.'
+    [PASS] STDOUT matches for target 'chars.'.
+    [PASS] Exit codes match for target 'chars.' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'chars.'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Here'
+    [PASS] STDOUT matches for target 'Here'.
+    [PASS] Exit codes match for target 'Here' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Here'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'goes'
+    [PASS] STDOUT matches for target 'goes'.
+    [PASS] Exit codes match for target 'goes' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'goes'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Charlie'
+    [PASS] STDOUT matches for target 'Charlie'.
+    [PASS] Exit codes match for target 'Charlie' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Charlie'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Snoopy'
+    [PASS] STDOUT matches for target 'Snoopy'.
+    [PASS] Exit codes match for target 'Snoopy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Snoopy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Lucy'
+    [PASS] STDOUT matches for target 'Lucy'.
+    [PASS] Exit codes match for target 'Lucy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Lucy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_33_Peanuts
+--------------------------------------------------
+  [TESTING] Target: 'Peanuts'
+    [PASS] STDOUT matches for target 'Peanuts'.
+    [PASS] Exit codes match for target 'Peanuts' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Peanuts'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Charlie'
+    [PASS] STDOUT matches for target 'Charlie'.
+    [PASS] Exit codes match for target 'Charlie' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Charlie'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Snoopy'
+    [PASS] STDOUT matches for target 'Snoopy'.
+    [PASS] Exit codes match for target 'Snoopy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Snoopy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Lucy'
+    [PASS] STDOUT matches for target 'Lucy'.
+    [PASS] Exit codes match for target 'Lucy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Lucy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Linus'
+    [PASS] STDOUT matches for target 'Linus'.
+    [PASS] Exit codes match for target 'Linus' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Linus'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Brown'
+    [PASS] STDOUT matches for target 'Brown'.
+    [PASS] Exit codes match for target 'Brown' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Brown'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Woodstock'
+    [PASS] STDOUT matches for target 'Woodstock'.
+    [PASS] Exit codes match for target 'Woodstock' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Woodstock'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Patty'
+    [PASS] STDOUT matches for target 'Patty'.
+    [PASS] Exit codes match for target 'Patty' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Patty'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_34_Charlie
+--------------------------------------------------
+  [TESTING] Target: 'Peanuts'
+    [PASS] STDOUT matches for target 'Peanuts'.
+    [PASS] Exit codes match for target 'Peanuts' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Peanuts'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Charlie'
+    [PASS] STDOUT matches for target 'Charlie'.
+    [PASS] Exit codes match for target 'Charlie' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Charlie'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Snoopy'
+    [PASS] STDOUT matches for target 'Snoopy'.
+    [PASS] Exit codes match for target 'Snoopy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Snoopy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Lucy'
+    [PASS] STDOUT matches for target 'Lucy'.
+    [PASS] Exit codes match for target 'Lucy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Lucy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Linus'
+    [PASS] STDOUT matches for target 'Linus'.
+    [PASS] Exit codes match for target 'Linus' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Linus'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Brown'
+    [PASS] STDOUT matches for target 'Brown'.
+    [PASS] Exit codes match for target 'Brown' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Brown'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Woodstock'
+    [PASS] STDOUT matches for target 'Woodstock'.
+    [PASS] Exit codes match for target 'Woodstock' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Woodstock'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Patty'
+    [PASS] STDOUT matches for target 'Patty'.
+    [PASS] Exit codes match for target 'Patty' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Patty'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Schroeder'
+    [PASS] STDOUT matches for target 'Schroeder'.
+    [PASS] Exit codes match for target 'Schroeder' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Schroeder'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Franklin'
+    [PASS] STDOUT matches for target 'Franklin'.
+    [PASS] Exit codes match for target 'Franklin' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Franklin'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_35_Phineas
+--------------------------------------------------
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Phineas'
+    [PASS] STDOUT matches for target 'Phineas'.
+    [PASS] Exit codes match for target 'Phineas' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Phineas'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Doofenshmirtz'
+    [PASS] STDOUT matches for target 'Doofenshmirtz'.
+    [PASS] Exit codes match for target 'Doofenshmirtz' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Doofenshmirtz'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Ferb'
+    [PASS] STDOUT matches for target 'Ferb'.
+    [PASS] Exit codes match for target 'Ferb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Ferb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'MajorMonogram'
+    [PASS] STDOUT matches for target 'MajorMonogram'.
+    [PASS] Exit codes match for target 'MajorMonogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'MajorMonogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Candace'
+    [PASS] STDOUT matches for target 'Candace'.
+    [PASS] Exit codes match for target 'Candace' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Candace'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_36_Perry
+--------------------------------------------------
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Phineas'
+    [PASS] STDOUT matches for target 'Phineas'.
+    [PASS] Exit codes match for target 'Phineas' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Phineas'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Doofenshmirtz'
+    [PASS] STDOUT matches for target 'Doofenshmirtz'.
+    [PASS] Exit codes match for target 'Doofenshmirtz' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Doofenshmirtz'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Ferb'
+    [PASS] STDOUT matches for target 'Ferb'.
+    [PASS] Exit codes match for target 'Ferb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Ferb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'MajorMonogram'
+    [PASS] STDOUT matches for target 'MajorMonogram'.
+    [PASS] Exit codes match for target 'MajorMonogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'MajorMonogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Candace'
+    [PASS] STDOUT matches for target 'Candace'.
+    [PASS] Exit codes match for target 'Candace' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Candace'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_37_Perry
+--------------------------------------------------
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Phineas'
+    [PASS] STDOUT matches for target 'Phineas'.
+    [PASS] Exit codes match for target 'Phineas' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Phineas'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Ferb'
+    [PASS] STDOUT matches for target 'Ferb'.
+    [PASS] Exit codes match for target 'Ferb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Ferb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Doofenshmirtz'
+    [PASS] STDOUT matches for target 'Doofenshmirtz'.
+    [PASS] Exit codes match for target 'Doofenshmirtz' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Doofenshmirtz'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'MajorMonogram'
+    [PASS] STDOUT matches for target 'MajorMonogram'.
+    [PASS] Exit codes match for target 'MajorMonogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'MajorMonogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Candace'
+    [PASS] STDOUT matches for target 'Candace'.
+    [PASS] Exit codes match for target 'Candace' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Candace'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_38_Perry
+--------------------------------------------------
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Doofenshmirtz'
+    [PASS] STDOUT matches for target 'Doofenshmirtz'.
+    [PASS] Exit codes match for target 'Doofenshmirtz' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Doofenshmirtz'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_39_Perry
+--------------------------------------------------
+  [TESTING] Target: 'Major_Monogram'
+    [PASS] STDOUT matches for target 'Major_Monogram'.
+    [PASS] Exit codes match for target 'Major_Monogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Major_Monogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Fireside_Girls'
+    [PASS] STDOUT matches for target 'Fireside_Girls'.
+    [PASS] Exit codes match for target 'Fireside_Girls' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Fireside_Girls'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Ferb'
+    [PASS] STDOUT matches for target 'Ferb'.
+    [PASS] Exit codes match for target 'Ferb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Ferb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_60_All
+--------------------------------------------------
+  [TESTING] Target: 'All'
+    [PASS] STDOUT matches for target 'All'.
+    [PASS] Exit codes match for target 'All' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'All'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'B'
+    [PASS] STDOUT matches for target 'B'.
+    [PASS] Exit codes match for target 'B' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'B'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'C'
+    [PASS] STDOUT matches for target 'C'.
+    [PASS] Exit codes match for target 'C' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'C'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_61_Square
+--------------------------------------------------
+  [TESTING] Target: 'Square'
+    [PASS] STDOUT matches for target 'Square'.
+    [PASS] Exit codes match for target 'Square' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Square'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Rectangle'
+    [PASS] STDOUT matches for target 'Rectangle'.
+    [PASS] Exit codes match for target 'Rectangle' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Rectangle'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Triangle'
+    [PASS] STDOUT matches for target 'Triangle'.
+    [PASS] Exit codes match for target 'Triangle' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Triangle'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Circle'
+    [PASS] STDOUT matches for target 'Circle'.
+    [PASS] Exit codes match for target 'Circle' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Circle'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_62_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'libc.a'
+    [PASS] STDOUT matches for target 'libc.a'.
+    [PASS] Exit codes match for target 'libc.a' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'libc.a'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'cs.o'
+    [PASS] STDOUT matches for target 'cs.o'.
+    [PASS] Exit codes match for target 'cs.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'cs.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_63_lab5
+--------------------------------------------------
+  [TESTING] Target: 'lab5'
+    [PASS] STDOUT matches for target 'lab5'.
+    [PASS] Exit codes match for target 'lab5' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'lab5'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_64_lab1
+--------------------------------------------------
+  [TESTING] Target: 'lab1'
+    [PASS] STDOUT matches for target 'lab1'.
+    [PASS] Exit codes match for target 'lab1' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'lab1'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'clockTypeImp.o'
+    [PASS] STDOUT matches for target 'clockTypeImp.o'.
+    [PASS] Exit codes match for target 'clockTypeImp.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'clockTypeImp.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'clear'
+    [PASS] STDOUT matches for target 'clear'.
+    [PASS] Exit codes match for target 'clear' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'clear'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_65_ids
+--------------------------------------------------
+  [TESTING] Target: 'ids'
+    [PASS] STDOUT matches for target 'ids'.
+    [PASS] Exit codes match for target 'ids' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'ids'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'ids.o'
+    [PASS] STDOUT matches for target 'ids.o'.
+    [PASS] Exit codes match for target 'ids.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'ids.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'run'
+    [PASS] STDOUT matches for target 'run'.
+    [PASS] Exit codes match for target 'run' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'run'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_66_Suzy
+--------------------------------------------------
+  [TESTING] Target: 'Suzy'
+    [PASS] STDOUT matches for target 'Suzy'.
+    [PASS] Exit codes match for target 'Suzy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Suzy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Monty'
+    [PASS] STDOUT matches for target 'Monty'.
+    [PASS] Exit codes match for target 'Monty' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Monty'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Suzy'
+    [PASS] STDOUT matches for target 'Suzy'.
+    [PASS] Exit codes match for target 'Suzy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Suzy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_67_Perry
+--------------------------------------------------
+  [TESTING] Target: 'Rodney'
+    [PASS] STDOUT matches for target 'Rodney'.
+    [PASS] Exit codes match for target 'Rodney' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Rodney'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Major_Monogram'
+    [PASS] STDOUT matches for target 'Major_Monogram'.
+    [PASS] Exit codes match for target 'Major_Monogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Major_Monogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Baljett'
+    [PASS] STDOUT matches for target 'Baljett'.
+    [PASS] Exit codes match for target 'Baljett' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Baljett'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Lawrence'
+    [PASS] STDOUT matches for target 'Lawrence'.
+    [PASS] Exit codes match for target 'Lawrence' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Lawrence'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_68_Pinky
+--------------------------------------------------
+  [TESTING] Target: 'Linda'
+    [PASS] STDOUT matches for target 'Linda'.
+    [PASS] Exit codes match for target 'Linda' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Linda'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Major_Monogram'
+    [PASS] STDOUT matches for target 'Major_Monogram'.
+    [PASS] Exit codes match for target 'Major_Monogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Major_Monogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Jeremy'
+    [PASS] STDOUT matches for target 'Jeremy'.
+    [PASS] Exit codes match for target 'Jeremy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Jeremy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Ferb'
+    [PASS] STDOUT matches for target 'Ferb'.
+    [PASS] Exit codes match for target 'Ferb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Ferb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Pinky'
+    [PASS] STDOUT matches for target 'Pinky'.
+    [PASS] Exit codes match for target 'Pinky' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Pinky'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Stacy'
+    [PASS] STDOUT matches for target 'Stacy'.
+    [PASS] Exit codes match for target 'Stacy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Stacy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_69_Perry
+--------------------------------------------------
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Phineas'
+    [PASS] STDOUT matches for target 'Phineas'.
+    [PASS] Exit codes match for target 'Phineas' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Phineas'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Doofenshmirtz'
+    [PASS] STDOUT matches for target 'Doofenshmirtz'.
+    [PASS] Exit codes match for target 'Doofenshmirtz' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Doofenshmirtz'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Ferb'
+    [PASS] STDOUT matches for target 'Ferb'.
+    [PASS] Exit codes match for target 'Ferb' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Ferb'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'MajorMonogram'
+    [PASS] STDOUT matches for target 'MajorMonogram'.
+    [PASS] Exit codes match for target 'MajorMonogram' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'MajorMonogram'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Candace'
+    [PASS] STDOUT matches for target 'Candace'.
+    [PASS] Exit codes match for target 'Candace' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Candace'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_80_
+--------------------------------------------------
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_81_Roger
+--------------------------------------------------
+  [TESTING] Target: 'Perry'
+    [PASS] STDOUT matches for target 'Perry'.
+    [PASS] Exit codes match for target 'Perry' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Perry'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Isabelle'
+    [PASS] STDOUT matches for target 'Isabelle'.
+    [PASS] Exit codes match for target 'Isabelle' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Isabelle'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Phineas'
+    [PASS] STDOUT matches for target 'Phineas'.
+    [PASS] Exit codes match for target 'Phineas' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Phineas'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Roger'
+    [PASS] STDOUT matches for target 'Roger'.
+    [PASS] Exit codes match for target 'Roger' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Roger'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Jeremy'
+    [PASS] STDOUT matches for target 'Jeremy'.
+    [PASS] Exit codes match for target 'Jeremy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Jeremy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Suzy'
+    [PASS] STDOUT matches for target 'Suzy'.
+    [PASS] Exit codes match for target 'Suzy' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Suzy'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_83_doop.out
+--------------------------------------------------
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_84_doop2.out
+--------------------------------------------------
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_85_rundoop
+--------------------------------------------------
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop'
+    [PASS] STDOUT matches for target 'rundoop'.
+    [PASS] Exit codes match for target 'rundoop' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop2'
+    [PASS] STDOUT matches for target 'rundoop2'.
+    [PASS] Exit codes match for target 'rundoop2' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop2'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'run'
+    [PASS] STDOUT matches for target 'run'.
+    [PASS] Exit codes match for target 'run' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'run'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_86_rundoop2
+--------------------------------------------------
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop'
+    [PASS] STDOUT matches for target 'rundoop'.
+    [PASS] Exit codes match for target 'rundoop' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop2'
+    [PASS] STDOUT matches for target 'rundoop2'.
+    [PASS] Exit codes match for target 'rundoop2' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop2'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'run'
+    [PASS] STDOUT matches for target 'run'.
+    [PASS] Exit codes match for target 'run' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'run'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_87_run
+--------------------------------------------------
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop'
+    [PASS] STDOUT matches for target 'rundoop'.
+    [PASS] Exit codes match for target 'rundoop' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop2'
+    [PASS] STDOUT matches for target 'rundoop2'.
+    [PASS] Exit codes match for target 'rundoop2' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop2'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'run'
+    [PASS] STDOUT matches for target 'run'.
+    [PASS] Exit codes match for target 'run' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'run'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_88_clear
+--------------------------------------------------
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop'
+    [PASS] STDOUT matches for target 'rundoop'.
+    [PASS] Exit codes match for target 'rundoop' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop2'
+    [PASS] STDOUT matches for target 'rundoop2'.
+    [PASS] Exit codes match for target 'rundoop2' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop2'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'run'
+    [PASS] STDOUT matches for target 'run'.
+    [PASS] Exit codes match for target 'run' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'run'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'clear'
+    [PASS] STDOUT matches for target 'clear'.
+    [PASS] Exit codes match for target 'clear' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'clear'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_89_all
+--------------------------------------------------
+  [TESTING] Target: 'all'
+    [PASS] STDOUT matches for target 'all'.
+    [PASS] Exit codes match for target 'all' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'all'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'log.o'
+    [PASS] STDOUT matches for target 'log.o'.
+    [PASS] Exit codes match for target 'log.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'log.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop.out'
+    [PASS] STDOUT matches for target 'doop.out'.
+    [PASS] Exit codes match for target 'doop.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'file.o'
+    [PASS] STDOUT matches for target 'file.o'.
+    [PASS] Exit codes match for target 'file.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'file.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'catch.o'
+    [PASS] STDOUT matches for target 'catch.o'.
+    [PASS] Exit codes match for target 'catch.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'catch.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'doop2.out'
+    [PASS] STDOUT matches for target 'doop2.out'.
+    [PASS] Exit codes match for target 'doop2.out' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'doop2.out'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop'
+    [PASS] STDOUT matches for target 'rundoop'.
+    [PASS] Exit codes match for target 'rundoop' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'rundoop2'
+    [PASS] STDOUT matches for target 'rundoop2'.
+    [PASS] Exit codes match for target 'rundoop2' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'rundoop2'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'run'
+    [PASS] STDOUT matches for target 'run'.
+    [PASS] Exit codes match for target 'run' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'run'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_90_A
+--------------------------------------------------
+  [TESTING] Target: 'A'
+    [PASS] STDOUT matches for target 'A'.
+    [PASS] Exit codes match for target 'A' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'A'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'B'
+    [PASS] STDOUT matches for target 'B'.
+    [PASS] Exit codes match for target 'B' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'B'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_93_mymake
+--------------------------------------------------
+  [TESTING] Target: 'mymake'
+    [PASS] STDOUT matches for target 'mymake'.
+    [PASS] Exit codes match for target 'mymake' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'mymake'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'graphTools.o'
+    [PASS] STDOUT matches for target 'graphTools.o'.
+    [PASS] Exit codes match for target 'graphTools.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'graphTools.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'mymake.o'
+    [PASS] STDOUT matches for target 'mymake.o'.
+    [PASS] Exit codes match for target 'mymake.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'mymake.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_94_mymake.c
+--------------------------------------------------
+  [TESTING] Target: 'mymake'
+    [PASS] STDOUT matches for target 'mymake'.
+    [PASS] Exit codes match for target 'mymake' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'mymake'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'graphTools.o'
+    [PASS] STDOUT matches for target 'graphTools.o'.
+    [PASS] Exit codes match for target 'graphTools.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'graphTools.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'mymake.o'
+    [PASS] STDOUT matches for target 'mymake.o'.
+    [PASS] Exit codes match for target 'mymake.o' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'mymake.o'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_95_A
+--------------------------------------------------
+  [TESTING] Target: 'A'
+    [PASS] STDOUT matches for target 'A'.
+    [PASS] Exit codes match for target 'A' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'A'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'B'
+    [PASS] STDOUT matches for target 'B'.
+    [PASS] Exit codes match for target 'B' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'B'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'C'
+    [PASS] STDOUT matches for target 'C'.
+    [PASS] Exit codes match for target 'C' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'C'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'E'
+    [PASS] STDOUT matches for target 'E'.
+    [PASS] Exit codes match for target 'E' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'E'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_98_George
+--------------------------------------------------
+  [TESTING] Target: 'George'
+    [PASS] STDOUT matches for target 'George'.
+    [PASS] Exit codes match for target 'George' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'George'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Processing test file: test_mymake_99_Ringo
+--------------------------------------------------
+  [TESTING] Target: 'Beatles'
+    [PASS] STDOUT matches for target 'Beatles'.
+    [PASS] Exit codes match for target 'Beatles' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Beatles'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'John'
+    [PASS] STDOUT matches for target 'John'.
+    [PASS] Exit codes match for target 'John' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'John'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Ringo'
+    [PASS] STDOUT matches for target 'Ringo'.
+    [PASS] Exit codes match for target 'Ringo' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Ringo'...
+    [PASS] Valgrind: No memory leaks detected.
+
+  [TESTING] Target: 'Drums'
+    [PASS] STDOUT matches for target 'Drums'.
+    [PASS] Exit codes match for target 'Drums' (mymake: 1, exMymake: 1).
+    [INFO] Running Valgrind on mymake for target 'Drums'...
+    [PASS] Valgrind: No memory leaks detected.
+
+--------------------------------------------------
+Test script finished.
+--------------------------------------------------
