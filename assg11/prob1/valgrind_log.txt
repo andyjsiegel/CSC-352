@@ -1,0 +1,150 @@
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Kevin Bacon, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Lori Singer, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: John Lithgow, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Dianne Wiest, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Chris Penn, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Robin Williams, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Glenn Close, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: John Lithgow, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Jessica Tandy, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Swoosie Kurtz, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Matt Damon, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Ben Affleck, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Casey Affleck, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Robin Williams, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: James Best, Options: 
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Kevin Bacon, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Lori Singer, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: John Lithgow, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Dianne Wiest, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Chris Penn, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Robin Williams, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Glenn Close, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: John Lithgow, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Jessica Tandy, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Swoosie Kurtz, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Matt Damon, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Ben Affleck, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Casey Affleck, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: Robin Williams, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
+=================================================================
+Valgrind Leak Report for: test00.in, Actor: James Best, Options: -l
+=================================================================
+./bacon_test.sh: line 83: valgrind: command not found
+
