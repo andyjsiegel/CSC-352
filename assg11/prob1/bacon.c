@@ -256,16 +256,15 @@ int bfs(struct Actor *all_actors, struct Actor *start_actor, struct Actor *end_a
     return -1; // No path found
 }
 
-
 /*
- * print_path(actor) -- Prints the path from the queried actor back to Kevin Bacon.
+ * print_path(actor) -- Prints the path from Kevin Bacon to the queried actor.
  */
 void print_path(struct Actor *actor) {
-    if (actor->prev_actor_in_path) {
+    if (actor->prev_actor_in_path == NULL) {
+        printf("%s\n", actor->name);
+    } else {
         print_path(actor->prev_actor_in_path);
         printf("was in %s with\n%s\n", actor->prev_movie_in_path->name, actor->name);
-    } else {
-        printf("%s\n", actor->name);
     }
 }
 
@@ -386,26 +385,7 @@ int main(int argc, char *argv[]) {
         if (score != -1) {
             printf("Score: %d\n", score);
             if (l_option) {
-                 if (queried_actor != kevin_bacon) {
-                    // Path printing needs to be reversed
-                    struct Actor* temp_path[100]; // Max path length
-                    int path_len = 0;
-                    struct Actor* curr = queried_actor;
-                    while(curr != NULL) {
-                        temp_path[path_len++] = curr;
-                        curr = curr->prev_actor_in_path;
-                    }
-
-                    for(int i = path_len-1; i >= 0; i--) {
-                        if (i > 0) {
-                             printf("%s\nwas in %s with\n", temp_path[i]->name, temp_path[i-1]->prev_movie_in_path->name);
-                        } else {
-                             printf("%s\n", temp_path[i]->name);
-                        }
-                    }
-                 } else { // Queried actor is Kevin Bacon
-                    printf("Kevin Bacon\n");
-                 }
+                print_path(queried_actor);
             }
         } else {
             printf("Score: No Bacon!\n");
